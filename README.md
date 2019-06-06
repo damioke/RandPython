@@ -1,5 +1,6 @@
 # RandPython
-An objective comparison between R and Python
+
+Requirements
 
 Dear Attendees,
 
@@ -9,9 +10,6 @@ The session will be divided in two parts. We will discuss the key differences be
 
 What you will need if you are interested in following the practical lab:
 
-Download the data and scripts from the git repository link below: 
-https://github.com/damioke/RandPython
+Download the data and scripts from the git repository link below:
 
 Have both Jupyter notebook for Python and Rstudio for R installed on your PC.
-
-If there are any questions please contact me on damilola.oke@yacht.nl or joey.winter@yacht.nl or call: 06- 10 35 17 69
