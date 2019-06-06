@@ -1,7 +1,5 @@
 # RandPython
 
-Requirements
-
 Dear Attendees,
 
 Thank you for signing up for this session.
