@@ -4,6 +4,7 @@ setwd("C:/Users/test/projects-jupyter/RandPython")
 
 # set seed
 set.seed(1)
+set.seed(111)
 
 
 #install.packages("readr") # data parsing
